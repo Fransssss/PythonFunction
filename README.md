@@ -1,5 +1,5 @@
 # PythonFunction
-Practice functin with Python
+Practice define and call function with Python
 
  Objectives:
 - def function()
