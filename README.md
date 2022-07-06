@@ -1,11 +1,12 @@
 # PythonFunction
 Practice functin with Python
 
-- Objectives:
+ Objectives:
 - def function()
 - def function(obj)
 
-- Example Output: 
+
+Example Output: 
 
 ![image](https://user-images.githubusercontent.com/97081479/177524017-5c474f05-ca7e-49b6-8539-ab27852b73cc.png)
 
